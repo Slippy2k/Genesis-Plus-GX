@@ -1089,7 +1089,7 @@ static void check_variables(void)
     else
       config.dac_bits = 14;
 
-    YM2612Config(config.dac_bits);
+    //YM2612Config(config.dac_bits);
   }
 
   var.key = "genesis_plus_gx_blargg_ntsc_filter";

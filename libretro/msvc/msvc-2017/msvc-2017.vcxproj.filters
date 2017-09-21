@@ -111,7 +111,7 @@
     <ClCompile Include="..\..\..\core\ntsc\md_ntsc.c">
       <Filter>Source Files\ntsc</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\core\sound\ym2612.c">
+    <ClCompile Include="..\..\..\core\sound\ym3438.c">
       <Filter>Source Files\sound</Filter>
     </ClCompile>
     <ClCompile Include="..\..\..\core\sound\eq.c">
